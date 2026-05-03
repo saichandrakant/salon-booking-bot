@@ -22,8 +22,8 @@ User → Service → Details → Date/Time → Confirmation → Saved to Sheet
 
 ## Live Demo
 
-(Paste your Typebot link here)
+https://typebot.co/my-typebot-m6ddab6
 
 ## Author
 
-Your Name
+chandra
